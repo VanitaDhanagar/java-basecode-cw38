@@ -1,0 +1,15 @@
+{
+    "sql": {
+        "native_hana_associations": false
+    },
+    "requires": {
+        "[production]": {
+            "auth": "xsuaa",
+            "db": "hana"
+        },
+        "html5-repo": true
+    },
+    "dependencies": {
+        "@cap-js/hana": "^1"
+    }
+}
