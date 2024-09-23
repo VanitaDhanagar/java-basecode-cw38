@@ -7,7 +7,8 @@
             "auth": "xsuaa",
             "db": "hana"
         },
-        "html5-repo": true
+        "html5-repo": true,
+        "portal": true
     },
     "dependencies": {
         "@cap-js/hana": "^1"
